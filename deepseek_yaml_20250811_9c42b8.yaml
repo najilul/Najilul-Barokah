@@ -1,0 +1,5 @@
+title: Web Pribadi Saya
+description: Web pribadi untuk menampilkan portfolio dan informasi kontak
+theme: minima
+plugins:
+  - jekyll-feed
